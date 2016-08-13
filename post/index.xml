@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W </title>
+    <link>https://faph.github.io/w/post/</link>
+    <language>en-us</language>
+    <author>Florenz A. P. Hollebrandse</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-08-13 14:17:23 &#43;0100 BST</updated>
+
+    
+      
+        <item>
+          <title>good to great</title>
+          <link>https://faph.github.io/w/post/not-so-great/</link>
+          <pubDate>Sat, 13 Aug 2016 14:17:23 BST</pubDate>
+          <author>Florenz A. P. Hollebrandse</author>
+          <guid>https://faph.github.io/w/post/not-so-great/</guid>
+          <description>
+
+&lt;h2 id=&#34;not-so-great&#34;&gt;Not so great!&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
